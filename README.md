@@ -6,7 +6,7 @@ Currently, two official plugins are available:
 
 ## Products Demo (React + Vite)
 
-A lightweight demo that lists products from DummyJSON and shows product details. Built with React, Vite, Tailwind, axios, and react-router.
+A test assignment demo that lists products from DummyJSON and shows product details. Built with React, Vite, Tailwind, axios, and react-router.
 
 ## Products Demo (React + Vite)
 
@@ -35,4 +35,3 @@ npm run dev
 ### Notes
 
 - Tested with React 19 on Vite; dev server uses HMR
-- On case-sensitive filesystems, keep file names and imports matching exactly (e.g., Products.jsx)
