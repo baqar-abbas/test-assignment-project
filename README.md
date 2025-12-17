@@ -6,6 +6,10 @@ Currently, two official plugins are available:
 
 ## Products Demo (React + Vite)
 
+### Live Demo
+
+https://test-assignment-project.onrender.com
+
 A test assignment demo that lists products from DummyJSON and shows product details. Built with React, Vite, Tailwind, axios, and react-router.
 
 ## Products Demo (React + Vite)
